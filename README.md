@@ -2,8 +2,7 @@
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Compara as portas em escuta (`ss -tulnp`) com uma baseline e alerta sobre portas **novas**. Bash organizado em camadas (clean architecture aplicada a shell script).
-
+Compara as portas em escuta (`ss -tulnp`) com uma baseline e alerta sobre portas **novas**.
 ## Estrutura
 
 ```
